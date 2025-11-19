@@ -2,4 +2,3 @@
   function claim() external {
         if (hasClaimed[msg.sender]) {
 }     
-
